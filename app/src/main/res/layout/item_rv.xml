@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_marginTop="16dp"
+        android:layout_width="match_parent"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="32dp"
+        android:layout_height="60dp">
+        <TextView
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/txtName1"
+            android:layout_width="0dp"
+            android:text="Fajr"
+            android:textColor="#030E4C"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+        <TextView
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical|end"
+            android:textSize="14sp"
+            android:id="@+id/txtTime1"
+            android:layout_width="wrap_content"
+            android:text="05:00 AM"
+            android:layout_height="match_parent"
+            />
+
+    </LinearLayout>
+    <View
+
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:background="#2196F3"/>
+
+    <LinearLayout
+        android:layout_marginTop="16dp"
+        android:layout_width="match_parent"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="32dp"
+        android:layout_height="60dp">
+        <TextView
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/txtName2"
+            android:layout_width="0dp"
+            android:text="Fajr"
+            android:textColor="#030E4C"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+        <TextView
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical|end"
+            android:textSize="14sp"
+            android:id="@+id/txtTime2"
+            android:layout_width="wrap_content"
+            android:text="05:00 AM"
+            android:layout_height="match_parent"
+            />
+
+    </LinearLayout>
+    <View
+
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:background="#2196F3"/>
+    <LinearLayout
+        android:layout_marginTop="16dp"
+        android:layout_width="match_parent"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="32dp"
+        android:layout_height="60dp">
+        <TextView
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/txtName3"
+            android:layout_width="0dp"
+            android:text="Fajr"
+            android:textColor="#030E4C"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+        <TextView
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical|end"
+            android:textSize="14sp"
+            android:id="@+id/txtTime3"
+            android:layout_width="wrap_content"
+            android:text="05:00 AM"
+            android:layout_height="match_parent"
+            />
+
+    </LinearLayout>
+    <View
+
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:background="#2196F3"/>
+    <LinearLayout
+        android:layout_marginTop="16dp"
+        android:layout_width="match_parent"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="32dp"
+        android:layout_height="60dp">
+        <TextView
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/txtName4"
+            android:layout_width="0dp"
+            android:text="Fajr"
+            android:textColor="#030E4C"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+        <TextView
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical|end"
+            android:textSize="14sp"
+            android:id="@+id/txtTime4"
+            android:layout_width="wrap_content"
+            android:text="05:00 AM"
+            android:layout_height="match_parent"
+            />
+
+    </LinearLayout>
+    <View
+
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:background="#2196F3"/>
+
+
+    <LinearLayout
+    android:layout_marginTop="16dp"
+    android:layout_width="match_parent"
+    android:layout_marginStart="32dp"
+    android:layout_marginEnd="32dp"
+    android:layout_height="60dp">
+    <TextView
+        android:layout_gravity="center_vertical"
+        android:gravity="center_vertical"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:id="@+id/txtName5"
+        android:layout_width="0dp"
+        android:text="Fajr"
+        android:textColor="#030E4C"
+        android:layout_height="match_parent"
+        android:layout_weight="1"/>
+    <TextView
+        android:layout_gravity="center_vertical"
+        android:gravity="center_vertical|end"
+        android:textSize="14sp"
+        android:id="@+id/txtTime5"
+        android:layout_width="wrap_content"
+        android:text="05:00 AM"
+        android:layout_height="match_parent"
+        />
+
+</LinearLayout>
+    <View
+
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:background="#2196F3"/>
+
+
+</LinearLayout>
